@@ -5,11 +5,11 @@
 
 ### About
 
+-  **Intern :** As Flutter Developer  :zap: | Open-Source :fire:    
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java,JavaScript
 -  **Hobbies :** Badminton :badminton: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [shreyamishra040398@gmail.com](mailto:shreyamishra040398@gmail.com)
 
 
 ### Languages and Tools
@@ -31,8 +31,21 @@
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
+**💬 Ask me about anything, I'll be happy to help!** <br>
+**💬 My inbox is always open, Contact me**
+<br>
+<br> 
+  <a href="https://www.linkedin.com/in/shreya-mishra-2270901a5/">
+   <img align="left" alt="Shreya Mishra | Linkedin" width="24px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:shreyamishra040398@gmail.com">
+    <img align="left" alt="Shreya Mishra | Gmail" width="26px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Gmail.svg" />
+  </a>
+  <a href="https://www.instagram.com/shreya_mishra_936/">
+    <img align="left" alt="Shreya Mishra | Instagram" width="24px" src="https://www.instagram.com/shreya_mishra_936//shreya-mishra/blob/master/Instagram.svg" />
+  </a>
+<br>
+<br>
 
 ---
 ⭐️ From [shreya-mishra](https://github.com/shreya-mishra)
