@@ -1,6 +1,6 @@
-###  :man_technologist:  [ShreyaMishra](https://shreya-mishra.github.io)
+###  :man_technologist:  [Shreya Mishra](https://shreya-mishra.github.io)
 
-👋 Hi, I'm WangNingkai,a passionate self-taught backend developer from China 🚀. 
+👋 Hi, I'm Shreya,a passionate self-taught backend developer from UP 🚀. 
 
 [![shreya mishra's github stats](https://imwnk-github-stats.vercel.app/api?username=wangningkai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/WangNingkai)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,9 +10,9 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java,JavaScript
--  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Hobbies :** Badminton :badminton: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [shreya-mishra](mailto:shreyamishra040398@gmail.com)
+-  **Contact me :** [shreyamishra040398@gmail.com](mailto:shreyamishra040398@gmail.com)
 
 
 ### Languages and Tools
