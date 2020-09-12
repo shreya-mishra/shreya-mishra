@@ -35,14 +35,14 @@
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://in.linkedin.com/in/piyushp7pravin">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/shreya-mishra-2270901a5/">
+   <img align="left" alt="Shreya Mishra | Linkedin" width="24px" src="https://github.com/shreya-mishra/shreya-mishra/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:piyushpravin1998@gmail.com">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  <a href="mailto:shreyamishra040398@gmail.com">
+    <img align="left" alt="Shreya Mishra | Gmail" width="26px" src="https://github.com/shreya-mishra/shreya-mishra/blob/master/Gmail.svg" />
   </a>
-  <a href="https://www.instagram.com/piyushp7pravin/">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  <a href="https://www.instagram.com/shreya_mishra_936/">
+    <img align="left" alt="Shreya Mishra | Instagram" width="24px" src="https://github.com/shreya-mishra/shreya-mishra/blob/master/Instagram.svg" />
   </a>
 <br>
 <br>
