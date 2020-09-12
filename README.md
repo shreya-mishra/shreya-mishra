@@ -1,6 +1,6 @@
 ###  :woman_technologist:  [Shreya Mishra](https://shreya-mishra.github.io)
 
-👋 Hi, I'm Shreya,a passionate self-taught backend developer from UP 🚀. 
+👋 Hi, I'm Shreya, a passionate self-taught application developer from UP 🚀. 
 
 
 ### About
