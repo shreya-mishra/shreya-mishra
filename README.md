@@ -1,4 +1,4 @@
-###  :man_technologist:  [Shreya Mishra](https://shreya-mishra.github.io)
+###  :women_technologist:  [Shreya Mishra](https://shreya-mishra.github.io)
 
 👋 Hi, I'm Shreya,a passionate self-taught backend developer from UP 🚀. 
 
@@ -37,13 +37,13 @@
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/shreya-mishra-2270901a5/">
-   <img align="left" alt="Shreya Mishra | Linkedin" width="24px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Linkedin.svg" />
+   <img align="left" alt="Shreya| Linkedin" width="24px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:shreyamishra040398@gmail.com">
-    <img align="left" alt="Shreya Mishra | Gmail" width="26px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Gmail.svg" />
+    <img align="left" alt="Shreya| Gmail" width="26px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Gmail.svg" />
   </a>
   <a href="https://www.instagram.com/shreya_mishra_936/">
-    <img align="left" alt="Shreya Mishra | Instagram" width="24px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Instagram.svg" />
+    <img align="left" alt="Shreya |Instagram" width="24px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Instagram.svg" />
   </a>
 <br>
 <br>
