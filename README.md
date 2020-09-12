@@ -30,7 +30,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
+<br>
+<br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
 **💬 My inbox is always open, Contact me**
 <br>
@@ -42,7 +43,7 @@
     <img align="left" alt="Shreya Mishra | Gmail" width="26px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Gmail.svg" />
   </a>
   <a href="https://www.instagram.com/shreya_mishra_936/">
-    <img align="left" alt="Shreya Mishra | Instagram" width="24px" src="https://www.instagram.com/shreya_mishra_936//shreya-mishra/blob/master/Instagram.svg" />
+    <img align="left" alt="Shreya Mishra | Instagram" width="24px" src="https://https://github.com/shreya-mishra/shreya-mishra/blob/master/Instagram.svg" />
   </a>
 <br>
 <br>
