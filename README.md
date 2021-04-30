@@ -5,8 +5,8 @@
 
 ### About
 
--  **Intern :** As Flutter Developer  :zap: | Open-Source :fire:    
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Intern :** As Flutter Developer  :zap: | :fire:    
+-  **Learning :** Full-Stack Development :zap: |  :fire:    
 -  **Languages :** Java,JavaScript
 -  **Hobbies :** Badminton :badminton: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
