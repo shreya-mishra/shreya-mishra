@@ -9,7 +9,7 @@
 -  **Intern :** As Flutter Developer  :zap: | :fire:    
 -  **Learning :** Full-Stack Development :zap: |  :fire:    
 -  **Languages :** Java,JavaScript
--  **Hobbies :** Books :Reading: & Music :headphones:
+-  **Hobbies :** Book :Reading: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 
 
