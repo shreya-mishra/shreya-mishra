@@ -5,10 +5,11 @@
 
 ### About
 
+-  **Freelancer :** React-native || Application Developer  :zap: | :fire:    
 -  **Intern :** As Flutter Developer  :zap: | :fire:    
 -  **Learning :** Full-Stack Development :zap: |  :fire:    
 -  **Languages :** Java,JavaScript
--  **Hobbies :** Badminton :badminton: & Music :headphones:
+-  **Hobbies :** Books :Reading: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 
 
