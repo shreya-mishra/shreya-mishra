@@ -5,7 +5,6 @@
 
 ### About
 
--  **Freelancer :** React-native || React-Js || Application/Web Developer  :zap: | :fire:    
 -  **Working :** As Automation Developer  :zap: | :fire:    
 -  **Learning :** Next JS :zap: |  :fire:    
 -  **Languages :** JavaScript 
