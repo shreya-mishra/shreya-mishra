@@ -8,7 +8,7 @@
 -  **Working :** As React Native Developer  :zap: | :fire:    
 -  **Learning :** Typescript in RN :zap: |  :fire:    
 -  **Languages :** JavaScript 
--  **Hobbies :** Reading :Book: & Music :headphones:
+-  **Hobbies :** socializing 💁: & Voice-over 🎤 
 -  **Fact :** First solve the problem, then write the code :heart:
 
 
